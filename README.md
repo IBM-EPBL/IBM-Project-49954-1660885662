@@ -1,7 +1,7 @@
 # IBM-Project-49954-1660885662
 Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
-Category :Data Analytics 
+**Category :** Data Analytics 
 
 **Batch Name :** B6-6M2E 
 
