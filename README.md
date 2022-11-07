@@ -17,7 +17,7 @@ Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
 **Team member :** Kishore N 
 
-**Team member :** Karthick I 
+**Team member :** Karthick I
 
 ---
 **Industry Mentor(s) Name :** Mahidhar, Saumya 
@@ -40,6 +40,7 @@ If you have any feedback, please reach out to us at mdsiddiq1204@gmail.com
 
 
 
+Storage siddiqqq
 
 
 
