@@ -36,6 +36,6 @@ Computer Science Engineering
 Mailam Engineering College 
 
 **feedback  :**
-If you have any feedback, please reach out to us 
+If you have any feedback, please reach out to us mdsiddiq1204@gmail.com 
 
 
